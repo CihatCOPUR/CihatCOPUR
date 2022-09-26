@@ -24,4 +24,5 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cihat-%C3%A7opur-ba13a924a/)
 
 
-[![Cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatCOPUR)](https://github.com/CihatCOPUR)
+![Cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatCOPUR&show_icons=true&theme=cobalt)
+
