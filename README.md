@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**CihatCOPUR/CihatCOPUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  ### My name is cihat 
+- ### I am from turkey 
+- ### I am 30 years old and a web developer. :star2: :star2:
+- ### I live in adana
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+- ### 🌱 I’m currently learning  React
+
+- ### 🤔 I’m looking for help with  job or staj
+
+ 
+
+
+
+
+
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cihat-%C3%A7opur-ba13a924a/)
+
+
+[![Cihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CihatCOPUR)](https://github.com/CihatCOPUR)
