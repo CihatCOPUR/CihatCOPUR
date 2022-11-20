@@ -28,3 +28,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CihatCOPUR)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CihatCOPUR)](https://github.com/CihatCOPUR/github-profile-trophy)
