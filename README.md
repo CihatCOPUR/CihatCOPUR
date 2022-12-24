@@ -10,7 +10,7 @@
 
 
 
-- ### 🌱 I’m currently learning  React
+- ### 🌱 I’m currently learning  Django
 
 - ### 🤔 I’m looking for help with  job or staj
 
