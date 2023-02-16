@@ -1,18 +1,12 @@
 ## Hi there 👋
 
--  ### My name is cihat 
-- ### I am from turkey 
-- ### I am 30 years old and a web developer. :star2: :star2:
-- ### I live in adana
-
-
-
-
-
+- ## I am Cihat  
+- ## I live in Adana  / Turkey
+- ## I  am web developer. :star2: :star2:
 
 - ### 🌱 I’m currently learning  Django
 
-- ### 🤔 I’m looking for help with  job or staj
+- ### 🤔 I’m open to Work
 
  
 
