@@ -7,7 +7,7 @@
 - ## I live in Adana  / Turkey
 - ## I  am web developer. :star2: :star2:
 
-- ### 🌱 I’m currently learning  Django
+- ### 🌱 I’m currently learning  Node. js
 
 - ### 🤔 I’m open to Work
 
