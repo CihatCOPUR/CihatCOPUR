@@ -1,6 +1,6 @@
 ## Hi there 👋 
 - ## I  am web developer. :star2: :star2:
-- :zap: I love math, programming, data science, and books
+- :zap: I love math, programming, coding, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I’m currently learning  Node. js
 - 📫 How to find me: 
