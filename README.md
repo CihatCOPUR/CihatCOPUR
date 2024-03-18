@@ -4,7 +4,7 @@
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I’m currently learning  Node. js
 - 📫 How to find me: 
-  - :office: [LinkedIn]([(https://www.linkedin.com/in/cihatcopur/)]
+  - :office: [LinkedIn](https://www.linkedin.com/in/cihatcopur/)
   - :![](https://komarev.com/ghpvc/?username=CihatCOPUR)
 
 
@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"  />
 </br>
 
-      <img         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"         alt="PostgreSQL"         />
+ 
 <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"         alt="Nodejs"         />
 <img        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"        />
 <img        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"        />
@@ -46,19 +46,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 
 </div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
-Format: [LinkedIn Badge] veya [Linkedin: VPA] 
 
-Syntax: [![LinkedIn](linkedin-shield image linki )](linkedin-url link)
-
-Ornek kullanim:
-
-[![Linkedin: VPA] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
-([https://www.linkedin.com/in/cihatcopur/])
 
 
