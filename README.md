@@ -5,7 +5,7 @@
 - :earth_africa: I’m currently learning  Node. js
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/cihatcopur/)
-  - :![](https://komarev.com/ghpvc/?username=CihatCOPUR)
+  
 
 
    <img src="https://github-readme-stats.vercel.app/api?username=CihatCOPUR&theme=chartreuse-dark" alt="my github stats" width="49%"/>
